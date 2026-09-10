@@ -68,7 +68,23 @@ Judge by agreement — obligations arise from the
 implicit terms between
 parties
 
+# Professional Responsibility
 
-**Utilitarianism**
+**Four Duties, Sometimes in Tension**
 
-*Is it justified to monitor employee communications if doing so prevents a breach that would harm thousands of customers?* 
+
+Duty to the Public
+The broadest duty, and the one most codes open with — “contribute to society and human well-being.”
+
+Duty to Employers & Clients 
+Competence, honesty, confidentiality, and avoiding conflicts of
+interest.
+
+Duty to the Profession
+
+Maintaining the credibility of the field as a whole — why
+credentialing bodies revoke certifications for violations.
+
+Duty to Colleagues
+Fair treatment, honest collaboration, and mentorship within
+teams
