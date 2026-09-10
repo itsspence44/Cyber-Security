@@ -1,6 +1,6 @@
 # Foundations of Cyber Ethics and Law
 
-**'Cyber Ethics**
+**Cyber Ethics**
 
 The branch of applied ethics concerned with moral behavior 
 in computing and information technology
