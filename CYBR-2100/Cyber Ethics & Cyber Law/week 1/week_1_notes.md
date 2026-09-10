@@ -122,7 +122,34 @@ Most professional codes hold that this takes precedence — but rarely without l
 
 *The conceptual core of the course — four kinds of obligation, easily conflated* 
 
+**The Space Between Categories** 
 
+
+
+Legal, but Unethical
+
+A company may legally sell user data under a technically compliant privacy
+policy that almost no user actually read or understood
+
+
+
+Illegal, but Arguably Ethical
+
+Some historical cases of researchers publicly disclosing vulnerabilities against
+a company's wishes, prioritizing public safety over compliance.
+
+
+
+Against Policy, but Ethical
+
+An employee reporting a colleague's misconduct through a channel that
+technically violates a confidentiality policy.
+
+
+Compliant, but Questionable
+
+Using dark patterns in UI design that are technically disclosed in the terms of
+service but built to obscure real user choice
 
 
 
