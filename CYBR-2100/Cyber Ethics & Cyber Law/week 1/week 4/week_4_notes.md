@@ -104,4 +104,34 @@ Permissive — similar to MIT but also includes an express patent license grant.
 Requires attribution and a NOTICE file if one exists. Commonly used in enterprise and cloud projects.
 
 
+# GitHub Repository Investigation
+
+**GitHub Repository Investigation** 
+
+What the repository does — tool, script, framework, or utility
+
+Whether a license file is present and what it is named
+
+What the license permits use, modification, redistribution, commercial use
+
+
+# Licensed vs. Unlicensed Repositories 
+
+*Licensed Repositories* 
+
+MIT or Apache 2.0 — usually organization-friendly with attribution
+
+GPL — copyleft obligations attach to derivative works
+
+Creative Commons — content licenses, not code licenses
+
+Multiple licenses — different parts under different terms
+
+License in root — easiest to find and verify
+
+License referenced in README — check the actual file   
+
+
+
+
 
