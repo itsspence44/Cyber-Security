@@ -1,3 +1,3 @@
-# Cyber-Security
+# Playbook 
 
-The folders are the classes that I have taken or currently taking at Hocking college 
+This is my playbook or notes for the classes that I have or am taking. 
