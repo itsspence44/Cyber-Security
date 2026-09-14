@@ -78,7 +78,19 @@ Identifying and addressing harmful bias requires examining the entire system
 Training on past decisions that reflected historical discrimination encodes those
 patterns into the model. Past does not equal correct.
 
+**Labels and Measurement**
 
+Human annotators make judgment calls. If annotators share assumptions, those
+assumptions become labels. The thing being measured may not be the thing
+that matters
+
+
+
+**Proxy Variables**
+
+A model may use a variable that correlates with a protected characteristic — ZIP
+code for race, job title for gender. The model never "sees" the protected class,
+but the effect is the same
 
 
 
