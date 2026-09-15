@@ -92,6 +92,34 @@ A model may use a variable that correlates with a protected characteristic — Z
 code for race, job title for gender. The model never "sees" the protected class,
 but the effect is the same
 
+**Thresholds and Deployment** 
+
+A threshold that produces equal false-positive rates in testing may have
+unequal real-world impact if the populations it affects have different underlying
+base rates
+
+
+
+
+
+# The NIST AI Risk Management Framework
+
+
+
+The NIST AI RMF (published January 2023) provides a voluntary framework for managing AI risk
+
+It organizes AI risk management around four core functions:
+
+GOVERN — establishing organizational policies, roles, and accountability structures
+
+MAP — identifying AI risks in context — stakeholders, use cases, potential harms
+
+MEASURE — quantifying and evaluating risks using appropriate metrics and method
+
+
+
+
+
 
 
 
