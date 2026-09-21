@@ -1,5 +1,3 @@
-# Review of class 
-
 
 # Governance vs. Operations
 
