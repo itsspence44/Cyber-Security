@@ -1,1 +1,4 @@
+# Class notes 
 
+
+*extra information* 
