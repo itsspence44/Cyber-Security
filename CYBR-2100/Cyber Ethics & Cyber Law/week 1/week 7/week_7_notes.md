@@ -1,4 +1,4 @@
- Review of class 
+*Review of class*
  ---
 
 # What Is Critical Infrastructure?
